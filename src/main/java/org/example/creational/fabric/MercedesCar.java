@@ -1,6 +1,6 @@
-package fabric;
+package org.example.creational.fabric;
 
-class MercedesCar implements Car {
+public class MercedesCar implements Car {
     @Override
     public void description() {
         System.out.println("Mercedes");

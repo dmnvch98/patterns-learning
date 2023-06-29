@@ -1,4 +1,4 @@
-package fabric;
+package org.example.creational.fabric;
 
 public class CarFabric implements Fabric {
 

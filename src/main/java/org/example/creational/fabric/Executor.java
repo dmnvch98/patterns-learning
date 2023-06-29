@@ -1,4 +1,4 @@
-package fabric;
+package org.example.creational.fabric;
 
 class Executor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package fabric;
+package org.example.creational.fabric;
 
 class BmwCar implements Car {
     @Override
